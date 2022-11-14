@@ -1,0 +1,49 @@
+body { background-image: url('wall.jpg'); }
+
+
+body {
+    background-image: url('wall.jpg');
+    width: 600px;
+    margin: 0 auto;
+}
+h1 {
+    background-image: url('wall.jpg');
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#miCanvas {
+    background-image: url('wall.jpg');
+    border: groove 2px rgb(202, 192, 192);
+    background: black;
+    box-shadow: 12px 12px 12px #883535;
+}
+.botonesMover{
+    color: rgb(255, 255, 255);
+    background-color: #006df1;
+    border-radius: 15px;
+    height: 30px;
+    width: 25%;
+    margin: 1%;
+    font-size: 18px;
+    font-weight: bold;
+}
+.botonDisparo{
+    color: #ffffff;
+    background-color: #ae0000;
+    border-radius: 10px;
+    height: 30px;
+    width: 42%;
+    margin: 1%;
+    font-size: 14px;
+    font-weight: bold;
+}
+.reset{
+    color: #ffffff;
+    background-color: #ae0000;
+    border-radius: 100px;
+    height: 30px;
+    width: 95%;
+    margin: 3%;
+    font-size: 12px;
+    font-weight: bold;
+}
